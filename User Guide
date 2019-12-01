@@ -1,0 +1,12 @@
+Navigate to the Add page using the nav bar at the top of the web page, this allows to add new books to the database,
+after entering the details press the button at the bottom of the page to add a new boook.
+
+Once a new book is added then navigate to the display page, this allows to view the added book.
+
+Under each new added book there are two buttons one to delete the entry from the database another to chage it.
+
+If the delete button is pressed the database will be updated and that information deleted out of it.
+
+If the change button is pressed, a change page pops up and allows the user to change the information in the database,
+once this information is updated, the useer should then  press the button at the bottom of the age to update the databse,
+to see the results the user can then navigate back to the display page.
